@@ -1,0 +1,32 @@
+{
+  "userinfo": [
+    {
+      "id": "8007",
+      "name": "kamta prasad shah ",
+      "email": "kamta@gmail.com",
+      "password": "458796",
+      "confirmpassword": "784596"
+    },
+    {
+      "id": "332e",
+      "name": "Ankit kumar shah",
+      "email": "ankit@gmail.com",
+      "password": "145236",
+      "confirmpassword": "365214"
+    },
+    {
+      "id": "89bb",
+      "name": "Pranshu",
+      "email": "pranshu@gmail.com",
+      "password": "14528",
+      "confirmpassword": "14258"
+    },
+    {
+      "id": "90a3",
+      "name": "Atul Shrma",
+      "email": "Atul@gmail.com",
+      "password": "7485",
+      "confirmpassword": ""
+    }
+  ]
+}
